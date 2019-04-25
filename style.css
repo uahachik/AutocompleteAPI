@@ -89,11 +89,11 @@ li .fa-map-marker-alt {
 }
 
 li .fa-ship {
-    margin-left: 5px;
+    margin-left: 4px;
 }
 
 .fa-ship + span {
-    margin-left: 8px;
+    margin-left: 9px;
 }
 
 li .fa-plane {
@@ -101,7 +101,7 @@ li .fa-plane {
 }
 
 .fa-plane + span {
-    margin-left: 8px;
+    margin-left: 9px;
 }
 
 
