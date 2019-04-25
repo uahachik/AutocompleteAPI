@@ -33,7 +33,7 @@ $(document).ready(function () {
         } else {
             output = `<li><i class="fas fa-ship"></i><span>${item.name}</span></li>`
         }
-        return $('<li id="color">')
+        return $('<li id="bc-1">')
             .append(output)
             .appendTo(ul);
     }
